@@ -1,9 +1,11 @@
 # RethinkMyRoom
 ## WordPress Front-End Mission
 https://rethinkmyroom.com/
-# Demo
 
+# Demo
 ![demo](https://github.com/BjzArchi/RethinkMyRoom/blob/master/RMR.gif)
+
+
 **What?**
 
 WordPress | Sales page | Funnel |
