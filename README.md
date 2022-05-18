@@ -56,5 +56,5 @@ Pictures | Schemas | Arrays | Mockup
 
 Setting up ➪ Offers | Copywriting | Form | FAQ | Sale Funnel
 
-🧱⚡ SEOMy first contact with the web market. 
+🧱⚡ SEO
 
