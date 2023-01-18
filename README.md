@@ -1,4 +1,4 @@
-# My first store built with WordPress
+# An interior design online store built with elementor and woocommerce.
 
 ![Screenshots](https://github.com/BjzArchi/RethinkMyRoom/blob/master/RMR.gif)
 
