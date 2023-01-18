@@ -1,4 +1,4 @@
-# An interior design online store built with elementor and woocommerce.
+# An interior-design online store.
 
 ![Screenshots](https://github.com/BjzArchi/RethinkMyRoom/blob/master/RMR.gif)
 
