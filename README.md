@@ -1,4 +1,4 @@
-# 🛒 Rethink My Room: Your new interior design online.
+# 🛒 Rethink My Room: Your new interior design store online.
 
 ![wordpress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B.svg?style=for-the-badge&logo=Elementor&logoColor=white)
