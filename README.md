@@ -28,10 +28,17 @@ Pictures | Schemas | Arrays | Mockup
 
 Brainstorming | Name | Logo | Favicon | Fonts | Colors 
 
+![Logo](https://github.com/z-bj/Rethink-my-Room/blob/master/logorouge.png)
+
+![favicon](https://github.com/z-bj/Rethink-my-Room/blob/master/logo-tel.png)
 
 • Marketing
 
 Setting Up: Offers | Copywriting / Ghostwriting | Form | FAQ | Sale Funnel
+
+![](https://github.com/z-bj/Rethink-my-Room/blob/master/IkiganRmr.png)
+
+![](https://github.com/z-bj/Rethink-my-Room/blob/master/reagencement.png)
 
 
 • Site building from scratch with:
