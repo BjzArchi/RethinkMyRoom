@@ -1,5 +1,7 @@
 # 🛒 Rethink My Room: Your new interior design store online.
 
+![underconstruction](https://github.com/z-bj/Rethink-my-Room/blob/master/images.png)
+
 ![wordpress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B.svg?style=for-the-badge&logo=Elementor&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/Woo-96588A.svg?style=for-the-badge&logo=Woo&logoColor=white)
