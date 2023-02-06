@@ -1,12 +1,19 @@
+# README UNDER CONSTRUCTION 🚧 
+### Coming soon...
 
-
-
+<br>
+<br>
+<br>
 
 # Rethink My Room
+### Your new interior design store online.
+
+
+
 
 
 ![Screenshots](https://github.com/BjzArchi/RethinkMyRoom/blob/master/RMR.gif)
-## Your new interior design store online.
+
 
 ![wordpress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B.svg?style=for-the-badge&logo=Elementor&logoColor=white)
@@ -16,11 +23,6 @@
 <br>
 <br>
 <br>
-
-
-# README UNDER CONSTRUCTION 🚧 
-### COMING SOON 
-
 
 
 <!--
