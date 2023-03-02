@@ -3,16 +3,18 @@
 
 Welcome to Rethink My Room, the online store for interior design enthusiasts. Our platform makes it easy for you to transform your living space and bring your dream home to life. Our comprehensive package includes a video presentation of your project, a 3D visualization of your new interior, a shopping list of recommended furniture and decor, and personalized support from our project coaches every step of the way. Plus, with up to 30%* discounts and exclusive offers on products from our partners, we help you achieve your dream home within your budget.
 
+
+## Preview
+
+![PREVIEW](https://github.com/BjzArchi/RethinkMyRoom/blob/master/RMR.gif)
+
+
+
 ### Our Process:
 
 1.  Answer a questionnaire to specify your preferences, constraints, and budget.
 2.  Our expert decorator will design your new interior in 3D and provide a list of recommended furniture, decor, and materials.
 3.  Bring your project to life and enjoy your stunning new interior!
-
-### Preview
-
-![PREVIEW](https://github.com/BjzArchi/RethinkMyRoom/blob/master/RMR.gif)
-
 
 
 ### Technologies Used:
