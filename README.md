@@ -7,6 +7,7 @@ Welcome to Rethink My Room, the online store for interior design enthusiasts. Ou
 
 ## Preview
 ![Logo](https://github.com/z-bj/Rethink-my-Room/blob/master/logorouge.png)
+
 ![PREVIEW](https://github.com/BjzArchi/RethinkMyRoom/blob/master/RMR.gif)
 
 
