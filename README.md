@@ -40,7 +40,7 @@ Our e-commerce shop features the following:
 -   A robust search functionality that enables our clients to find what they need quickly.
 -   A secure checkout process that uses industry-standard SSL encryption to protect our clients' personal information.
 -   A product catalog with detailed information and multiple images to showcase our products.
--   Integration with payment gateways like PayPal, Stripe, and more for seamless online payments.
+-   Integration with payment gateways like PayPal, Stripe.
 -   An order management system that enables us to manage and track our clients' orders efficiently.
 -   Integration with social media channels to promote our products and services.
 -   A lot of Architectural tips to share with you our knowledges and passion. 
