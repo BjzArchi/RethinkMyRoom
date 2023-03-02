@@ -1,4 +1,4 @@
-# Rethink My Room
+![Logo](https://github.com/z-bj/Rethink-my-Room/commit/422dd30b5e7ae962dc2fadf6370d674a00d3384e)
 ### Your new interior design store online.
 
 Welcome to Rethink My Room, the online store for interior design enthusiasts. Our platform makes it easy for you to transform your living space and bring your dream home to life. Our comprehensive package includes a video presentation of your project, a 3D visualization of your new interior, a shopping list of recommended furniture and decor, and personalized support from our project coaches every step of the way. Plus, with up to 30%* discounts and exclusive offers on products from our partners, we help you achieve your dream home within your budget.
