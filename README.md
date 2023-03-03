@@ -23,11 +23,11 @@ Welcome to Rethink My Room, the online store for interior design enthusiasts. Ou
 
 -   WordPress: Our platform is built on the WordPress CMS, which makes it easy for you to manage and update your content.
     
--   Elementor: We use Elementor, a powerful page builder for WordPress, to create stunning designs for our website.
+-   Elementor: A powerful page builder for WordPress, to create stunning designs for our website.
     
 -   WooCommerce: Our online store is built using WooCommerce, a popular e-commerce plugin for WordPress, which allows us to sell our products and services seamlessly.
     
--   Figma: We use Figma, a design tool, to create wireframes, mockups, and design elements for our website.
+-   Figma: I use Figma, a design tool, to create wireframes, mockups, and design elements for our website.
     
 -   Affinity Designer: Our graphic designers use Affinity Designer, a professional graphic design software, to create logos, favicons, and other graphical elements for our website.
 
